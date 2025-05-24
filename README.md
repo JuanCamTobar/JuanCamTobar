@@ -1,5 +1,5 @@
 <!-- Encabezado grande con emoji -->
-<h1 align="center">🐾 ¡Hola, soy Juan! 🐾</h1>
+<h1 align="center"> Hola :b </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="200" alt="cat programmer"/>
@@ -8,7 +8,7 @@
 <p align="center">
   Estudiante de <strong>Ingeniería de Software</strong> en la <em>Universidad Icesi</em> 🏫<br>
   Apasionado por la <strong>Inteligencia Artificial</strong>, el <strong>análisis de datos</strong> y el mundo de las <strong>criptomonedas</strong> 🧠📊🪙<br>
-  🧪 Explorador de ideas, 🐱 amante de los gatos, y desarrollador curioso en crecimiento.
+  🧪 Explorador de ideas y 🐱 amante de los gatos.
 </p>
 
 ---
@@ -20,8 +20,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![IA](https://img.shields.io/badge/-Inteligencia%20Artificial-purple?style=for-the-badge)
-![Cripto](https://img.shields.io/badge/-Criptomonedas-FFD700?style=for-the-badge)
+
 
 </div>
 
@@ -37,26 +36,5 @@
 
 ---
 
-## 🧶 Próximamente...
-
-- 🎯 Proyectos personales relacionados con IA y análisis de datos
-- 💬 Integración de widgets como GitHub Stats y gráficos de contribuciones
-- 🐾 Sección de "gato recomendado del mes" (¡sí, en serio!)
-- 🎨 Diseño temático más avanzado con secciones plegables y animaciones
-
----
-
-## 📫 ¡Hablemos!
-
-<p align="center">
-  <a href="mailto:tucorreo@ejemplo.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/tuusuario" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="100" />
-</p>
 
 <p align="center"><em>“Los gatos eligen a sus humanos, igual que yo elijo mis proyectos con pasión.”</em></p>
