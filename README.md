@@ -35,6 +35,3 @@
 - ⚛️ Disfruto crear interfaces interactivas y lindas con React
 
 ---
-
-
-<p align="center"><em>“Los gatos eligen a sus humanos, igual que yo elijo mis proyectos con pasión.”</em></p>
